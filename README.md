@@ -1,4 +1,4 @@
-Git Commands
+Git Commands by Shankeeboi
 ============
 
 _A list of my commonly used Git commands_
